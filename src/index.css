@@ -1,0 +1,13 @@
+#root{
+  font-family: "Times New Roman", Times, serif;
+  color: white;
+  background-image: url("assets/moroccan-flower-dark.webp")
+}
+
+#products-index img {
+  width: 300px;
+}
+
+html {
+  scroll-behavior: smooth;
+}
